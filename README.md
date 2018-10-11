@@ -1,2 +1,2 @@
 # ac_projects
-/* This contains backup wp files */
+This contains backup wp files
